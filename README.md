@@ -6,7 +6,7 @@
 ## Experiencia y Tecnologías
 Durante mi trayectoria como estudiante de software, he tenido la oportunidad de trabajar con una variedad de tecnologías. Mis áreas de especialización incluyen:
 
- <h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,6 +15,7 @@ Durante mi trayectoria como estudiante de software, he tenido la oportunidad de 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -33,6 +34,13 @@ Durante mi trayectoria como estudiante de software, he tenido la oportunidad de 
 - 🗄️ &nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- 🌐 &nbsp;
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- 🌐 &nbsp;
+  ![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
+- 🔄 &nbsp;
+  ![AJAX](https://img.shields.io/badge/AJAX-1572B6?style=for-the-badge&logo=ajax&logoColor=white)
+
 
 
 ## Aprendiendo Actualmente
