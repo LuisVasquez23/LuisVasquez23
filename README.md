@@ -42,6 +42,32 @@ Durante mi trayectoria como estudiante de software, he tenido la oportunidad de 
   ![AJAX](https://img.shields.io/badge/AJAX-1572B6?style=for-the-badge&logo=ajax&logoColor=white)
 
 
+  
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LuisVasquez23&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LuisVasquez23&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+
 
 ## Aprendiendo Actualmente
 Siempre estoy buscando expandir mis habilidades y explorar nuevas tecnologías. En este momento, estoy inmerso en el aprendizaje de Spring Boot ☀️. Esta tecnología me ha llamado la atención por su simplicidad y eficiencia en el desarrollo de aplicaciones Java.
