@@ -63,12 +63,6 @@ Durante mi trayectoria como estudiante de software, he tenido la oportunidad de 
 </table>
 <!--- stats (end) -->
 
-
-
-
-## Aprendiendo Actualmente
-Siempre estoy buscando expandir mis habilidades y explorar nuevas tecnologías. En este momento, estoy inmerso en el aprendizaje de Spring Boot ☀️. Esta tecnología me ha llamado la atención por su simplicidad y eficiencia en el desarrollo de aplicaciones Java.
-
 ## Filosofía de Aprendizaje
 Creo firmemente en el poder del autoaprendizaje y la experimentación. Estoy constantemente buscando nuevas oportunidades para mejorar mis habilidades técnicas y mi comprensión de los principios de diseño de software. Para mí, cada proyecto es una oportunidad de crecimiento y aprendizaje.
 
