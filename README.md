@@ -1,10 +1,10 @@
-# ¡Hola! Soy Luis Vasquez 👋
+# Hello! I'm Luis Vasquez 👋
 
-## Sobre mí
-¡Encantado de conocerte! Soy un estudiante de software apasionado por la tecnología y el aprendizaje constante. Desde que descubrí mi fascinación por el desarrollo de software, me he comprometido a expandir mis habilidades y conocimientos en el campo.
+## About Me
+Nice to meet you! I'm a software student passionate about technology and continuous learning. Ever since I discovered my fascination for software development, I've been committed to expanding my skills and knowledge in the field.
 
-## Experiencia y Tecnologías
-Durante mi trayectoria como estudiante de software, he tenido la oportunidad de trabajar con una variedad de tecnologías. Mis áreas de especialización incluyen:
+## Experience and Technologies
+Throughout my journey as a software student, I've had the opportunity to work with a variety of technologies. My areas of expertise include:
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -39,8 +39,6 @@ Durante mi trayectoria como estudiante de software, he tenido la oportunidad de 
   ![AJAX](https://img.shields.io/badge/AJAX-1572B6?style=for-the-badge&logo=ajax&logoColor=white)
 
 
-  
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -63,10 +61,12 @@ Durante mi trayectoria como estudiante de software, he tenido la oportunidad de 
 </table>
 <!--- stats (end) -->
 
-## Filosofía de Aprendizaje
-Creo firmemente en el poder del autoaprendizaje y la experimentación. Estoy constantemente buscando nuevas oportunidades para mejorar mis habilidades técnicas y mi comprensión de los principios de diseño de software. Para mí, cada proyecto es una oportunidad de crecimiento y aprendizaje.
+## Learning Philosophy
+I firmly believe in the power of self-learning and experimentation. I'm constantly seeking new opportunities to enhance my technical skills and understanding of software design principles. For me, every project is an opportunity for growth and learning.
 
-## Conecta Conmigo
-Si compartes intereses en desarrollo de software, tecnología o simplemente quieres charlar, ¡no dudes en ponerte en contacto conmigo! Estoy disponible en varias plataformas de redes sociales y siempre estoy dispuesto a conectarme con otros entusiastas de la tecnología.
+## Connect With Me
+If you share interests in software development, technology, or just want to chat, feel free to get in touch with me! I'm available on various social media platforms and always eager to connect with other tech enthusiasts.
 
-¡Espero tener la oportunidad de aprender y crecer juntos en este emocionante viaje de desarrollo de software! 🚀
+I look forward to the opportunity to learn and grow together on this exciting software development journey! 🚀
+
+
